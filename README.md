@@ -3,7 +3,7 @@
 ![SQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![Data Analysis](https://img.shields.io/badge/Data_Analysis-100000?style=for-the-badge&logo=data&logoColor=white)
 
-## 📌 Project Overview
+## 📌 Project Overview    
 
 This project is an end-to-end data analysis of Pizza Hut's sales over a one-year period. The goal of this project is to leverage SQL to extract actionable business insights regarding customer ordering patterns, peak operational hours, and revenue-driving menu items. 
 
