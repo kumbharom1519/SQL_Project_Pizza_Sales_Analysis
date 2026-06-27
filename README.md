@@ -1,4 +1,4 @@
-# 🍕 Pizza Hut Sales Analysis: SQL Portfolio Project
+# 🍕 Pizza House Sales Analysis: SQL Portfolio Project
 
 ![SQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![Data Analysis](https://img.shields.io/badge/Data_Analysis-100000?style=for-the-badge&logo=data&logoColor=white)
