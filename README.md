@@ -9,23 +9,6 @@ This project is an end-to-end data analysis of Pizza Hut's sales over a one-year
 
 The findings are synthesized into a business-focused presentation designed to help stakeholders optimize inventory, staffing, and marketing strategies.
 
-## 📊 Project Presentation
-
-![Slide 1](1.png)
-![Slide 2](2.png)
-![Slide 3](3.png)
-![Slide 4](4.png)
-![Slide 5](5.png)
-![Slide 6](6.png)
-![Slide 7](7.png)
-![Slide 8](8.png)
-![Slide 9](9.png)
-![Slide 10](10.png)
-![Slide 11](11.png)
-![Slide 12](12.png)
-![Slide 13](13.png)
-![Slide 14](14.png)
-
 ---
 
 ## 💾 Data Architecture & Schema
